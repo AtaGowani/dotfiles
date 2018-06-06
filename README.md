@@ -12,6 +12,6 @@ to improve you terminal experience.
 `Mac OSX High Sierra` although it should work on most Macs.
 
 ## How to use
-* Download ZIP or Fork -> Clone
+* Download ZIP **-or-** Fork -> Clone
 * `cd` into the `dotfiles/` directory
 * Run `./apply.sh` (if that doesn't work run `bash apply.sh`) **This will overwrite your current configurations and replace them with what is above.** It will only replace the files that are in this directory.
