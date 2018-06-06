@@ -13,5 +13,5 @@ to improve their terminal experience.
 
 ## How to use
 * `git clone https://github.com/AtaGowani/dotfiles.git`
-* `cd dotfiles` directory
+* `cd dotfiles`
 * `./apply.sh` (if that doesn't work run `bash apply.sh`) **This will overwrite your current configurations and replace them with what is above.** It will only replace the files that are in this directory.
